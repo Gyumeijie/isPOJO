@@ -1,6 +1,6 @@
 {
   "name": "@gyumeijie/is-pojo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check whether an object is a Plain Javascript Object",
   "keywords": [
     "plain-object",

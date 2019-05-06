@@ -1,4 +1,4 @@
-# isPOJO [![](https://travis-ci.com/Gyumeijie/isPOJO.svg?branch=master)](https://travis-ci.com/Gyumeijie/isPOJO)
+# isPOJO [![](https://travis-ci.com/Gyumeijie/isPJO.svg?branch=master)](https://travis-ci.com/Gyumeijie/isPJO)
 
 > check whether an object is a Plain Javascript Object
 
